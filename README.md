@@ -1,3 +1,5 @@
 # Hello-World
 
-Start of my web development journey!
+Just a newbie trying to learn web development.
+
+<h1>Hi, my name is Andre</h1>
