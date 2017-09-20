@@ -1,2 +1,3 @@
 # Hello-World
-First post, Hello World
+
+Start of my web development journey!
